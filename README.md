@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zhouningyuan1234/xinrenshuoming/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhouningyuan1234/xinrenshuoming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+		<head>
+				<tietle>xinrenshuoming</tietle>
+						<style type="text/css">
+						<!--
+								.red{color:#FF0000}
+								green{color:#00FF00}
+								.purple{color: #FF00FF}
+						-->
+						</style>
+		<head>
+		<body>
+				<h1><center>新人说明</center></h1>
+				<div class="red">欢迎来到与yyy团队总部,洛谷那边有几个分部,而这个就是总部了。还是那句话:"有些事情在洛谷上不便说,然而在这里,我们可以不像在洛谷上那么拘谨,(只要不骂人就行),好了你现在是洛谷上的一员了。"</div>
+		</body>
+</html>
