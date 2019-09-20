@@ -1,6 +1,5 @@
 <html>
 		<head>
-				<tietle>xinrenshuoming</tietle>
 						<style type="text/css">
 						<!--
 								.red{color:#FF0000}
