@@ -4,7 +4,7 @@
 						<style type="text/css">
 						<!--
 								.red{color:#FF0000}
-								green{color:#00FF00}
+								.green{color:#00FF00}
 								.purple{color: #FF00FF}
 						-->
 						</style>
